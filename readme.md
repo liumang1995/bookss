@@ -12,3 +12,18 @@
 - 创建github账户
 - 创建github代码仓库
 - 电脑安装git
+
+### 前端vue3.0优点
+- 前后端分离
+- 部署简单（哪怕不懂写代码也可以部署），用处：从后端读取数据，展示页面
+
+### 数据库：mySQl
+用处：保存数据
+
+## 项目展示
+
+## 环境配置：统一的环境，能让你获得更好的观看体验
+### 推荐系统：ubuntu、MacOS
+### 编辑器：pycharm\sublime text\atom\vs code\vim
+建议用pycharm写python，用vs code写其他
+

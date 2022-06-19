@@ -10,3 +10,5 @@ def hello_world():
 
 
 @app.route("/hello")
+def xx():
+    pass
